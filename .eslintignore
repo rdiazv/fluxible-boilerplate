@@ -1,0 +1,5 @@
+node_modules/*
+**/vendor/*.js
+i18n/*
+build/*
+coverage/*
